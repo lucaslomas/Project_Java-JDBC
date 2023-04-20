@@ -11,5 +11,4 @@ public interface DepartmentDao {
     Department findByld(Integer id);
     List<Department> findAll();
 
-
 }
